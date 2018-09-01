@@ -2,6 +2,7 @@
 function theBeatlesPlay = {
   return array
 }
-function johnLennonFacts ={
-  
+function johnLennonFacts = {
+  "John Lennon plays guitar"
+  return array
 }
