@@ -16,7 +16,7 @@ var facts = ["He was the last Beatle to learn to drive", "He was never a vegetar
   return array;
 }
  function iLoveTheBeatles(number) {
-  var array = [number];
+  var array = [];
   do {
     array.push("I love the Beatles!");
     number += 1
