@@ -1,4 +1,7 @@
 // add solution here
-function johnLennonFacts = {
+function theBeatlesPlay = {
   return array
+}
+function johnLennonFacts ={
+  
 }
